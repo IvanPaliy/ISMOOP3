@@ -1,0 +1,6 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\ClassLibrary\obj\Debug\ClassLibrary.pdb

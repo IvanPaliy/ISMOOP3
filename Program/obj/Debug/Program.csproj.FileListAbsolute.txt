@@ -1,0 +1,7 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\bin\Debug\Program.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\bin\Debug\Program.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\bin\Debug\Program.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\obj\Debug\Program.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\OOP3\Program\obj\Debug\Program.pdb
